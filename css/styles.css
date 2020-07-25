@@ -52,6 +52,7 @@
     background-color: #727272;
     width: 90%;
     height: 180px;
+    overflow: auto;
     text-align: auto;
     font-size: large;
     padding: 35px 15px 15px 15px;
